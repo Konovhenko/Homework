@@ -104,3 +104,7 @@ git pull
 ![Search](Search.png)
 ![second](second.jpg)
 ![third](third.jpg)
+Далее заходим в свой репозиторий, и в терминале вводим команду 
+```
+git clone <и вставляем ссылку которую скопировали>
+```
